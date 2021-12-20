@@ -1,0 +1,1 @@
+#This script will pull the nba season score data from the website(nba.com)
